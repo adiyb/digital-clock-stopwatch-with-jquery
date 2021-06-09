@@ -85,7 +85,7 @@ body{
 .clock{
     position: relative;
     top: 100px;
-    opacity: 1;
+    opacity: 0;
     transition: .7s;
     font-size: 50px;
 }
